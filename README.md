@@ -2,9 +2,9 @@
 - 👀 I’m interested in ...salesforce development
 - 🌱 I’m currently learning ...Apex and lightning web component
 - 💞️ I’m looking to collaborate on ...lwc
-- 📫 How to reach me ...babineaime2004@gmail.com
+- 📫 How to reach me ... babineaime2004@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... ok that is fun 😄😄😄😄😄
 
 <!---
 aimeaimeaime/aimeaimeaime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
